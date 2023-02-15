@@ -1,0 +1,37 @@
+{
+  "AcceptGifts": true,
+  "AutoSteamSaleEvent": true,
+  "CustomGamePlayedWhileIdle": "",
+  "Enabled": true,
+  "GamesPlayedWhileIdle": [],
+  "LootableTypes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "RedeemingPreferences": 3,
+  "RemoteCommunication": 0,
+  "SendOnFarmingFinished": true,
+  "SteamLogin": "",
+  "SteamPassword": "",
+  "SteamUserPermissions": {
+    "": 3
+  },
+  "TradingPreferences": 1,
+  "CardDropsRestricted": true,
+  "DismissInventoryNotifications": false,
+  "FarmingOrder": 0,
+  "FarmOffline": false,
+  "HandleOfflineMessages": false,
+  "IsBotAccount": true,
+  "SteamParentalPIN": "0"
+}
