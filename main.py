@@ -3,7 +3,6 @@ from PyQt5.QtGui import QColor
 from PyQt5 import uic, QtCore
 from PyQt5.QtCore import QPoint
 import actions
-
 import sys
 import icons
 
